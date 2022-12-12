@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/><a href="https://github.com/nateyeboah">Programmer</a>, <a href="https://www.linkedin.com/in/nathanyeboah//">Software Engineering Professional</a>,
+<h1>Hi, I'm Nathan! <br/><a href="https://github.com/nateyeboah">Programmer</a>, <a href="https://www.linkedin.com/in/nathanyeboah//">Software Developer Professional</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
